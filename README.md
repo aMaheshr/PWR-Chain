@@ -1,8 +1,7 @@
-<p align="center">
-  <strong><big>**PWR Chain Validator Node & RPC Node Guide**</big></strong>
-</p>
 
-# 2 Methods to Run Validator Node Auto or Manual
+<h1 align="center"> PWR Chain Validator Node & RPC Node Guide </h1>
+
+### 2 Methods to Run Validator Node Auto or Manual
 
 #### Method 1 : 
 - Single Line Script auto Installation :
@@ -17,10 +16,6 @@ wget https://github.com/aMaheshr/PWR-Chain/blob/main/install.sh && chmod +x inst
 
 
 ## Lets Start :
-
-### **Validator Node Guide**
-
-(https://discord.gg/DJkcuy9SAg).
 
 #### **System Requirements**:
 
